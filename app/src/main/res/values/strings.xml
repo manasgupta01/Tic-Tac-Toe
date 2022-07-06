@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">connect3</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="play_again">Play Again</string>
+    <string name="todo6">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo5">TODO</string>
+</resources>
